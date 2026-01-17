@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import io from "socket.io-client";
+import io from "https://duffly.onrender.com";
 import "./App.css";
 
 const socket = io("http://localhost:5000");
