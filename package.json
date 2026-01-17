@@ -1,9 +1,9 @@
 {
   "name": "duffly-frontend",
   "private": true,
-  "scripts": {
-    "start": "react-scripts start"
-  },
+ "scripts": {
+  "start": "node server.js"
+},
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
