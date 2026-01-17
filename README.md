@@ -1,6 +1,9 @@
 Company : CODTECH IT SOLUTIONS Name: INCHARA YOGESH Intern ID: CTISAK42 Domain: FULL STACK DEVELOPMENT Duration: 4 WEEKS Mentor: NEELA SANTOSH
+
 DESCRIPTION:
+
 Duffly – Real-Time Chat Application
+
 Duffly is a modern real-time chat application designed to enable seamless communication between multiple users through interactive chat rooms. The application is built using a full-stack web architecture that integrates a responsive frontend with a real-time backend communication system. It allows users to join specific chat rooms, exchange messages instantly, and view previous chat history, providing a smooth and engaging messaging experience.
 The frontend of Duffly is developed using React.js, which ensures a dynamic and component-based user interface. Advanced CSS techniques such as glassmorphism, responsive layouts, custom handwriting fonts, and animated background elements are used to enhance visual appeal and improve user experience across desktop and mobile devices. The application adapts to different screen sizes, making it accessible on laptops, tablets, and smartphones. Socket.IO on the frontend enables real-time bidirectional communication with the server.
 The backend is built using Node.js and Express.js, which handle client connections and manage real-time events. Socket.IO is used to establish WebSocket connections, allowing instant message delivery without page refreshes. Users are grouped into rooms, ensuring that messages are broadcast only to participants of the same chat room. Additional real-time features such as typing indicators enhance interactivity.
@@ -8,3 +11,4 @@ For data persistence, Duffly uses SQLite as the database, integrated through Seq
 Overall, Duffly demonstrates a complete real-time communication system, combining frontend design, backend logic, WebSocket technology, and database integration. The project showcases practical implementation of real-time web applications and serves as a strong example of full-stack development using modern web technologies.
 
 OUTPUT:
+<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/98739550-9123-4906-9446-4b2f7d3e7b6b" />
